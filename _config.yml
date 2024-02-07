@@ -1,13 +1,13 @@
-title: "CodeWithMohsen"
-author: "Mohsen Hajikarimian"
-description: "Codes are Magic!"
+title: 'CodeWithMohsen'
+author: 'Mohsen Hajikarimian'
+description: 'Codes are Magic!'
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "codewithmohsen@mail.com"
+email: 'codewithmohsen@mail.com'
 #twitter_username: "twitteruser"
-github_username: "codewithmohsen"
-linkedin_username: "codewithmohsen"
+github_username: 'codewithmohsen'
+linkedin_username: 'codewithmohsen'
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
@@ -18,14 +18,15 @@ linkedin_username: "codewithmohsen"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+#theme: "minima"
+theme: 'online-cv'
 
 rss: rss
 
 kramdown:
   syntax_highlighter_opts:
     disable: true
-    
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -36,7 +37,7 @@ titles_from_headings:
 
 defaults:
   - scope:
-      path: ""
+      path: ''
       type: post
     values:
       tags: Other
