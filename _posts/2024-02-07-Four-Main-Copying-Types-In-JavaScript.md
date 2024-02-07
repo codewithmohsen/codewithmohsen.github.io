@@ -1,4 +1,4 @@
-### Four Main Copying Types In JavaScripts
+### Four Main Copying Types In JavaScript
 
 JavaScript has four main copy types:
 
