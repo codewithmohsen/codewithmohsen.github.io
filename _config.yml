@@ -1,6 +1,6 @@
-title: 'CodeWithMohsen'
+title: 'Code With Mohsen!'
 author: 'Mohsen Hajikarimian'
-description: 'Codes are Magic!'
+#description: 'Codes are Magic!'
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
@@ -40,4 +40,4 @@ defaults:
       path: ''
       type: post
     values:
-      tags: Other
+      tags:
