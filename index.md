@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-
 <div style="
     background-image: linear-gradient(120deg, #155799, #159957);
     border-radius: 10px;
