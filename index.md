@@ -10,6 +10,7 @@
     border-radius: 10px;
     padding: 10px;
     justify-content: space-between;
+    margin-bottom: 3em;
     ">
     <div style="
     display: inline;
@@ -67,6 +68,7 @@
     border-radius: 10px;
     padding: 10px;
     justify-content: space-between;
+    margin-top: 3em;
     ">
     <div style="
     display: inline;
