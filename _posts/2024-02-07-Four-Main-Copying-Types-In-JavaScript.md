@@ -11,7 +11,7 @@ JavaScript has four main copy types:
 
 when you assign a primitive data type (like strings, numbers, or booleans) to a variable, it's copied by value. This means the variable stores a copy of the actual value.
 
-<code class="language-js">
+<code>
 let  variable1 = "Mohsen";
 let variable2 = variable1; // b is now a copy of variable1
 variable2 = "Sepidaar"; // Changing variable2 doesn't affect variable1
