@@ -7,13 +7,13 @@
     <h6 style="display: inline;">Follow me in </h6>
     <ul style="display: inline;">
         <li style="display: inline;">
-            <a href="https://linkedin.com/in/codewithmohsen">
-                <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+            <a href="http://linkedin.com/in/codewithmohsen">
+                <i class="fa-brands fa-linkedin"></i>
             </a>
         </li>
         <li style="display: inline;">
             <a href="https://github.com/codewithmohsen">
-                <i class="fa fa-github-square" aria-hidden="true"></i>
+                <i class="fa-brands fa-square-github"></i>
             </a>
         </li>
     </ul>
