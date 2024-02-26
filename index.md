@@ -1,4 +1,8 @@
-<div>
+<div style="
+    border: solid 1px #159957;
+    border-radius: 10px;
+    padding: 10px;
+    ">
     <h6 style="
     display: inline;
 ">Follow me in </h6>
