@@ -28,20 +28,26 @@
 <h1>{{ site.posts.last.title }}</h1>
 {{ site.posts.last.content }}
 
+
 <div style="
-    border: solid 1px #159957;
+    background-image: linear-gradient(120deg, #155799, #159957);
     border-radius: 10px;
-    padding: 10px;">
-    <h6 style="display: inline;">Follow me in </h6>
+    padding: 10px;
+    ">
+    <h6 style="display: inline;color: snow;">Follow me in </h6>
     <ul style="display: inline;">
         <li style="display: inline;">
             <a href="http://linkedin.com/in/codewithmohsen">
-                <i class="fa-brands fa-linkedin"></i>
+                <i class="fa-brands fa-linkedin" style="
+    color: snow;
+"></i>
             </a>
         </li>
         <li style="display: inline;">
             <a href="https://github.com/codewithmohsen">
-                <i class="fa-brands fa-square-github"></i>
+                <i class="fa-brands fa-square-github" style="
+    color: snow;
+"></i>
             </a>
         </li>
     </ul>
