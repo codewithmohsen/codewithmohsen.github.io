@@ -5,11 +5,11 @@
 <ul style="display: inline;">
     <li style="
     display: inline;
-"><a href="https://linkedin.com/codewithmohsen">Linkedin
-    </a></li><a href="https://linkedin.com/codewithmohsen">
-    </a><li style="
+"><a href="https://linkedin.com/in/codewithmohsen">Linkedin
+    </a></li>
+<li style="
     display: inline;
-"><a href="https://linkedin.com/codewithmohsen"> </a><a href="https://linkedin.com/codewithmohsen
+"><a href="https://github.comn/codewithmohsen
              ">Github</a></li>
 </ul>
 </div>
