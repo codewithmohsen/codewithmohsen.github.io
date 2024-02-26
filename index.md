@@ -9,7 +9,7 @@
     </a></li>
 <li style="
     display: inline;
-"><a href="https://github.comn/codewithmohsen
+"><a href="https://github.com/codewithmohsen
              ">Github</a></li>
 </ul>
 </div>
